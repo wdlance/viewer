@@ -1,0 +1,161 @@
+let time = new Date().getTime()
+export const types = [{
+	id:1,
+	name:"分类1"
+},
+{
+	id:2,
+	name:"分类2"
+},
+{
+	id:3,
+	name:"分类3"
+},
+{
+	id:4,
+	name:"分类4"
+},
+{
+	id:5,
+	name:"分类5"
+}]
+export const list = [{
+	id:1,
+	name:"图片1",
+	time:time+1,
+	tId:1,
+	image:"http://img1.imgtn.bdimg.com/it/u=1740749014,2654817649&fm=26&gp=0.jpg"
+},
+{
+	id:2,
+	name:"图片2",
+	time:time+2,
+	tId:2,
+	image:"http://img3.imgtn.bdimg.com/it/u=2933177104,3514797579&fm=26&gp=0.jpg"
+},
+{
+	id:3,
+	name:"图片3",
+	time:time+3,
+	tId:3,
+	image:"http://img1.imgtn.bdimg.com/it/u=3044299387,1147852482&fm=26&gp=0.jpg"
+},
+{
+	id:4,
+	name:"图片4",
+	time:time+4,
+	tId:4,
+	image:"http://img5.imgtn.bdimg.com/it/u=1654070431,1915855462&fm=26&gp=0.jpg"
+},
+{
+	id:5,
+	name:"图片5",
+	time:time+5,
+	tId:5,
+	image:"http://img3.imgtn.bdimg.com/it/u=1616772410,747818839&fm=26&gp=0.jpg"
+},
+{
+	id:6,
+	name:"图片6",
+	time:time+6,
+	tId:2,
+	image:"http://img0.imgtn.bdimg.com/it/u=1322674466,1169403322&fm=26&gp=0.jpg"
+},
+{
+	id:7,
+	name:"图片7",
+	time:time+7,
+	tId:3,
+	image:"http://img5.imgtn.bdimg.com/it/u=1365468881,2668803930&fm=26&gp=0.jpg"
+},
+{
+	id:8,
+	name:"图片8",
+	time:time+8,
+	tId:4,
+	image:"http://img1.imgtn.bdimg.com/it/u=1740749014,2654817649&fm=26&gp=0.jpg"
+},
+{
+	id:9,
+	name:"图片9",
+	time:time+9,
+	tId:5,
+	image:"http://img1.imgtn.bdimg.com/it/u=2174469801,2250385118&fm=26&gp=0.jpg"
+},
+{
+	id:10,
+	name:"图片10",
+	time:time+10,
+	tId:1,
+	image:"http://img3.imgtn.bdimg.com/it/u=2548062576,3446971507&fm=26&gp=0.jpg"
+},
+{
+	id:11,
+	name:"图片11",
+	time:time+11,
+	tId:3,
+	image:"http://img5.imgtn.bdimg.com/it/u=744373569,2639877404&fm=26&gp=0.jpg"
+},
+{
+	id:12,
+	name:"图片12",
+	time:time+12,
+	tId:4,
+	image:"http://img1.imgtn.bdimg.com/it/u=3171135802,1278920431&fm=26&gp=0.jpg"
+},
+{
+	id:13,
+	name:"图片13",
+	time:time+13,
+	tId:5,
+	image:"http://img1.imgtn.bdimg.com/it/u=1473084871,3637063918&fm=26&gp=0.jpg"
+},
+{
+	id:14,
+	name:"图片14",
+	time:time+14,
+	tId:2,
+	image:"http://img5.imgtn.bdimg.com/it/u=2721861025,1158301426&fm=26&gp=0.jpg"
+},
+{
+	id:15,
+	name:"图片15",
+	time:time+15,
+	tId:1,
+	image:"http://img5.imgtn.bdimg.com/it/u=1465461196,1721538421&fm=26&gp=0.jpg"
+},
+{
+	id:16,
+	name:"图片16",
+	time:time+16,
+	tId:4,
+	image:"http://img0.imgtn.bdimg.com/it/u=31268056,4228800776&fm=26&gp=0.jpg"
+},
+{
+	id:17,
+	name:"图片17",
+	time:time+17,
+	tId:5,
+	image:"http://img2.imgtn.bdimg.com/it/u=2849594655,2519529915&fm=26&gp=0.jpg"
+},
+{
+	id:18,
+	name:"图片18",
+	time:time+18,
+	tId:1,
+	image:"http://img4.imgtn.bdimg.com/it/u=2207796275,2093373741&fm=26&gp=0.jpg"
+},
+{
+	id:19,
+	name:"图片19",
+	time:time+19,
+	tId:2,
+	image:"http://img0.imgtn.bdimg.com/it/u=4225455883,3466151727&fm=26&gp=0.jpg"
+},
+{
+	id:20,
+	name:"图片20",
+	time:time+20,
+	tId:3,
+	image:"http://img2.imgtn.bdimg.com/it/u=3489418742,2272708402&fm=26&gp=0.jpg"
+}]
